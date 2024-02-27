@@ -260,7 +260,7 @@ function _p9k_init_icons() {
         VCS_GIT_GITHUB_ICON            '\uF113 '              # 
         VCS_GIT_BITBUCKET_ICON         '\uF171 '              # 
         VCS_GIT_GITLAB_ICON            '\uF296 '              # 
-        VCS_GIT_AZURE_ICON             '\u2601 '              # ☁
+        VCS_GIT_AZURE_ICON             '\uEBE8 '              # 
         VCS_GIT_ARCHLINUX_ICON         '\uF1D3 '              # 
         VCS_GIT_CODEBERG_ICON          '\uF1D3 '              # 
         VCS_GIT_DEBIAN_ICON            '\uF1D3 '              # 
